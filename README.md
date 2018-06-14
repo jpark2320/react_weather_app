@@ -1,0 +1,1 @@
+This weather app project is working with the free version of API provided from https://openweathermap.org/
